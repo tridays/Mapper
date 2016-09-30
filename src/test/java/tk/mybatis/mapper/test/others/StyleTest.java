@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package tk.mybatis.mapper.test.othres;
+package tk.mybatis.mapper.test.others;
 
 import org.junit.Assert;
 import org.junit.Test;
